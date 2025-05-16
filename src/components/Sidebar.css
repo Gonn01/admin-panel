@@ -1,0 +1,5 @@
+.sidebar .MuiListItemText-root .MuiTypography-root {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -1,0 +1,29 @@
+.navbar {
+  background: #fff;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  height: 60px;
+  border-bottom: 1px solid #ddd;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.toggle-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5rem;
+  margin-right: 20px;
+}
+
+.title {
+  flex: 1;
+  margin: 0;
+}
+
+.user-info {
+  font-weight: bold;
+}
