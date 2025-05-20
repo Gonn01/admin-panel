@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-dom": "^19.1.5",
     "cross-env": "^7.0.3"
   }
 }

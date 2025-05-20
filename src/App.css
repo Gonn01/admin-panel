@@ -1,3 +1,32 @@
+:root {
+    --color-fondo: #fbfefb;
+    --color-fondo2: #a0a7ac;
+    --color-letra: #2a3b47;
+
+    --color-cardazul: #2ba2f2;
+    --color-cardazulclaro: #23f0db;
+    --color-cardazuloscuro: #0085b0;
+
+    --color-cardrojo: #ff4d49;
+    --color-cardrojoclaro: #e76363;
+    --color-cardrojooscuro: #c52e2a;
+
+    --color-cardamarillo: #fdb528;
+    --color-cardamarilloclaro: #ffd900;
+    --color-cardamarillooscuro: #da9000;
+
+    --color-cardvioleta: #6c00ff;
+    --color-cardvioletaclaro: #d2b0ff;
+    --color-cardvioletaoscuro: #874cd8;
+
+    --color-cardnaranja: #ff991c;
+    --color-cardnaranjaclaro: #ffb264;
+    --color-cardnaranjaoscuro: #ec7f12;
+
+    --color-cardverde: #41a100;
+    --color-cardverdeclaro: #89ff3b;
+    --color-cardverdeoscuro: #3a9200;
+}
 .App {
   text-align: center;
 }
